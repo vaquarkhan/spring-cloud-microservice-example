@@ -1,3 +1,8 @@
+* http://www.kennybastani.com/2015/07/spring-cloud-docker-microservices.html
+
+-----------------------------------------------------------------------------------
+
+
 # Spring Cloud Example Project
 
 An example project that demonstrates an end-to-end cloud-native platform using Spring Cloud for building a practical microservices architecture.
